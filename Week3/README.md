@@ -1,22 +1,33 @@
-# Week 3 – VAPT Theoretical Knowledge
+# Week 3 – VAPT Training Tasks
 
-This week focuses on advanced penetration testing concepts including exploit chaining, web application penetration testing methodologies, and professional vulnerability reporting practices.
+This week focuses on advanced vulnerability exploitation, web application penetration testing, and professional reporting practices.
+
+The work includes both theoretical research and practical labs simulating real-world penetration testing activities.
 
 Topics Covered
 
-1. Advanced Vulnerability Exploitation
-2. Web Application Penetration Testing
-3. Reporting and Stakeholder Communication
+Theoretical Knowledge
+- Advanced Vulnerability Exploitation
+- Web Application Penetration Testing
+- Reporting and Stakeholder Communication
 
-Objectives
+Practical Labs
+- Advanced Exploitation Lab
+- Web Application Testing Lab
+- Reporting Practice
+- Post Exploitation and Evidence Collection
+- Capstone Project: Full VAPT Cycle
 
-- Understand how attackers chain vulnerabilities to compromise systems.
-- Learn how to identify and test common web application vulnerabilities.
-- Develop skills to document vulnerabilities and communicate findings clearly to stakeholders.
+Tools Used
 
-Resources Studied
+Kali Linux
+Metasploit Framework
+Burp Suite
+sqlmap
+OWASP ZAP
+Wireshark
+OpenVAS
 
-- Exploit-DB
-- OWASP Web Security Testing Guide
-- PortSwigger Web Security Academy
-- PTES Reporting Guidelines
+Objective
+
+To understand the complete penetration testing lifecycle including vulnerability discovery, exploitation, post exploitation, and professional reporting.
